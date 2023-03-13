@@ -5,9 +5,10 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/guilherme-oliveira-ramos/)
 
+<div style="display: inline_block">
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiOliveiraRamos&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiOliveiraRamos)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 ### Tecnologias usadas atualmente: 
 
 <div style="display: inline_block"><br/>
