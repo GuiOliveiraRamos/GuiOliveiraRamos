@@ -1,12 +1,12 @@
 
 ### Olá, eu sou o Guilherme ! 😄
 
-- Junior Front-End Web Developer
-
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#0996)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/guilherme-oliveira-ramos/)
 
+- Desenvolvedor front-end Junior
+- Português/English
 
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiOliveiraRamos&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiOliveiraRamos)](https://github.com/anuraghazra/github-readme-stats)
