@@ -6,7 +6,7 @@
 )](https://www.linkedin.com/in/guilherme-oliveira-ramos/)
 
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiOliveiraRamos&show_icons=true&theme=onedark)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias usadas atualmente: 
 
@@ -16,6 +16,13 @@
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  
 </div>
+
+
+Apaixonado por tecnologia, atualmente estudando na Driven Education sobre desenvolvimento de software em uma formação Full Stack e a procura de novos desafios na área de programação
+
+## Contato
+
+📬 E-mail: guioliveiraramos30@gmail.com
 
 
 
